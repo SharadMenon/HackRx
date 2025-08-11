@@ -1,7 +1,0 @@
-# requirements.txt
-
-faiss-cpu
-sentence-transformers
-PyMuPDF
-numpy
-pickle-mixin
